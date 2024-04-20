@@ -7,7 +7,7 @@ idea/*
 vscode_launcher.py
 
 # Folders
-trainingfiles/
+results/
 
 # log files
 ./log.json
